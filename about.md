@@ -6,9 +6,17 @@ excerpt:
 comments: false
 ---
 
-Hello peeps, I'm student of electronics, communication and information engineering  from Pulchowk Campus, living in Kathmandu, Nepal. I'm a strong enthusisast of technology, more inclination towards how the technical system works and finding security vunlerabilites in them. I love to break the website funtionality. You will get to know some cool security related stuffs and some blogs and writeups about the website related vulnerability and others relating to cybersec. Let's get binded together and secure the world!! 
+<h2 align=center><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Samir Chapagain! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working as bug bounty hunter at hackerone and bugcrowd 
+- 💬 Ask me about web security
+- 📫 How to reach me: [![](https://img.shields.io/badge/instagram-blue)](https://www.instagram.com/sameer_cpg/) [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/samir-chapagain-667b83255)
+- Current Interest: Web pentesting, Hacking, Networking
 
+&nbsp;
+&nbsp;
 **may u needs ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
+

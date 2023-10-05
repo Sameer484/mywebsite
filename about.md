@@ -10,7 +10,9 @@ comments: false
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working as bug bounty hunter at hackerone and bugcrowd 
 - 💬 Ask me about web security
+<<<<<<< HEAD
 - 📫 How to reach me: [![](https://img.shields.io/badge/instagram-blue)](https://www.instagram.com/sameer_cpg/) [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/samir-chapagain-667b83255)
+=======
 - Current Interest: Web pentesting, Hacking, Networking
 
 &nbsp;
